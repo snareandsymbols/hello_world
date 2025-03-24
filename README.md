@@ -58,4 +58,4 @@ print(oon)
 fibproof = []
 for ihat in range(len(x)):
     fibproof.append(9*int(npower[ihat] + int(k[ihat])))
-print(fibproof
+print(fibproof)
