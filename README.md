@@ -1,5 +1,4 @@
-I'm
-
+I'm John o, the author. 
 Example is given below with the length of the sequences to be 48. There is a pattern observed when doing 24 iterations of the o-output on the Fibonacci sequences. Check print in Python IDE and check data. 
 J is pre-allocated. then the following code:
 
