@@ -1,7 +1,12 @@
 
 
-Example is given below with the length of the sequences to be 48. There is a pattern observed when doing 24 iterations of the o-output on the Fibonacci sequences. check print in Python IDE and check data. 
+Example is given below with the length of the sequences to be 48. There is a pattern observed when doing 24 iterations of the o-output on the Fibonacci sequences. Check print in Python IDE and check data. 
+J is pre-allocated. then the following code:
 
+for thing in zz:
+    myfunc(thing)
+    j.append(myfunc(thing))
+This produces the pattern. Every 24 numbers will produce a Fibonacci pattern that repeats twice since length is 48. 1,1,2,3,5 ... , F_48
 -----------------
 x = [1,1]
 rs = 2
