@@ -1,4 +1,8 @@
 
+
+Example is given below with the length of the sequences to be 48. There is a pattern observed when doing 24 iterations of the o-output on the Fibonacci sequences. check print in Python IDE and check data. 
+
+-----------------
 x = [1,1]
 rs = 2
 rsl = ['1','2']
